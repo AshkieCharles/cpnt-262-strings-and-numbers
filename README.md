@@ -7,5 +7,5 @@
 - The hardest part about this project for me was trying to get document.getElementById() to work for me. I was not doing it right as I kept using the wrong variables to be able to render the code into the html page.
 
 ### GitHub :
-- [GH-Pages]
-- [GH-Repo]
+- [GH-Pages](https://ashkiecharles.github.io/cpnt-262-strings-and-numbers/)
+- [GH-Repo](https://github.com/AshkieCharles/cpnt-262-strings-and-numbers.git)
