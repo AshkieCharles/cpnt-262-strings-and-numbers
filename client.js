@@ -9,7 +9,7 @@ document.getElementById("first-name").innerHTML = userName;
 document.getElementById("integer").innerHTML = Number.isInteger(numb)
 
 /* This provides a simple addition statement. */
-document.getElementById("addition").innerHTML = (10 + 15)
+document.getElementById("addition").innerHTML = (numb + 15)
 
 /* This asks if the number is finite and is not unlimited */
 document.getElementById("new-string").innerHTML = Number.isFinite(numb)
