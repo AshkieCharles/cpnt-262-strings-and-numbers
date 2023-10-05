@@ -17,6 +17,10 @@ document.getElementById("new-string").innerHTML = Number.isFinite(numb)
 /* We use the userName.length to get the length of the string and use the first word as the string/variables for strings. */
 document.getElementById("length").innerHTML = userName.length
 
+/* We use the charAt() to be able to find the first letter of the string, we use the number 0 as it always starts at 0 */
 document.getElementById("first-letter").innerHTML =  userName.charAt(0)
+
+
+/* We use the length of the overall string and use subtract 1 by using - 1 to find the last letter by going from the first letter and going backwards once. */
 document.getElementById("last-letter").innerHTML =  userName.charAt(userName.length - 1)
 
